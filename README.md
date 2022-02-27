@@ -1,4 +1,17 @@
-### Hi there 👋
+### Oi! Meu nome é Gabriel Mendonça...
+
+Atualmente estou interessado em:
+- Desenvolvimento Web Back-end
+- Ciência de Dados
+- Criação de bots para automatização de tarefas
+
+Estou estudando as seguintes tecnologias:
+- python
+- Python Selenium
+- Django
+- php
+- laravel
+- js
 
 <!--
 **gbmendonca/gbmendonca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
